@@ -1,6 +1,6 @@
 # analise-de-credito-basica
 
-Faremos uma primeira análise mais básica, avaliada pela acurácia. Aprimoraremos a análise e o modelo nos próximos passos
+Faremos uma primeira análise mais básica divididas em partes, avaliando passo a passo um modelo de árvore de decisão. Aprimoraremos a análise e o modelo nos próximos passos em um arquivo compilados posteriormente.
 
 ## Entendimento dos dados
 Foram fornecidas 15 variáveis mais a variável resposta (em negrito na tabela). O significado de cada uma dessas variáveis se encontra na tabela.
